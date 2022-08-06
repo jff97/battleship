@@ -1,6 +1,7 @@
 //This is the edit to publish to github from github desktop
 //This is a test
 //global variables
+//volatile branch
 const boardSize = 10;
 const maxTurns = 40;
 var game1 = new Game();
